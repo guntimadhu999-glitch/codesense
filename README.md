@@ -43,7 +43,7 @@ JavaScript, Python, Java, Dart, C++, C#, Go, Rust, PHP, TypeScript, Kotlin, Swif
 | google_fonts | Poppins and JetBrains Mono |
 
 ## Getting Started
-git clone https://github.com/guntimadhu999-glitch/codesense.git
+git clone https://github.com/guntimadhu/codesense.git
 cd codesense
 flutter pub get
 
